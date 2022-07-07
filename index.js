@@ -1,7 +1,7 @@
 let screen=document.getElementById('screen');
 buttons=document.querySelectorAll('button');
 let screenValue='';
-let nev = '';
+
 
 for(item of buttons){
     item.addEventListener('click', (e)=>{
