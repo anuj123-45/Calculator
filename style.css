@@ -3,6 +3,10 @@
     margin-top:50px;
 }
 
+h1{
+    color:brown;
+}
+
 table{
     margin:auto;
 }
@@ -16,7 +20,7 @@ input{
 button{
     font-size: 48px;
     background-color: cornflowerblue;
-    width: 98px;
+    width: 89px;
     height: 60px;
     border-radius: 20px;
 }
@@ -26,4 +30,8 @@ button{
     background-color: darkorange;
     padding: 46px;
     border-radius: 102px;
+}
+
+#sp{
+    background-color: cornflowerblue;
 }
