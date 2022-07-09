@@ -13,8 +13,8 @@ display:flex;
 <h1>The img element</h1>
 
 <div>
-<img src="img1.png"  width="500" height="400">
-<img src="img2.png"  width="500" height="400">
+<img src="img1.png"  width="400" height="400">
+<img src="img2.png"  width="400" height="400">
 </div>
 
 </body>
