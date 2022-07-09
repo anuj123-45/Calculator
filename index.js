@@ -12,6 +12,7 @@ for(item of buttons){
             buttonText='*';
             screenValue+=buttonText;
             screen.value=screenValue;
+           
         }
 
          else if(buttonText=='C'){
@@ -23,8 +24,6 @@ for(item of buttons){
            screen.value=eval(screenValue);
            
          }
-
-    
 
          else {
           screenValue=screen.value+buttonText;
