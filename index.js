@@ -1,4 +1,5 @@
 let screen=document.getElementById('screen');
+document.getElementById('screen').disabled=true;
 buttons=document.querySelectorAll('button');
 let screenValue='';
 
